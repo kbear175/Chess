@@ -1,0 +1,43 @@
+
+    /* Write your CSS code here */
+
+    html {
+        background: black;
+    }
+
+    body {
+      display: block;
+      margin: 0px;
+    }
+
+    #main {
+      width: 50%;
+      margin-left: 25%;
+      margin-top: 5%
+    }
+
+    #image {
+        width: 100%;
+        border: 10px white solid;
+    }
+    
+    h1 {
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        text-align: center;
+      }
+
+    .white {
+        color: white;   
+        text-align: center; 
+      }
+
+    .quote {
+        font-style: italic;
+        font-size: 14px;
+        color: white;   
+        text-align: center;
+      }
+    
